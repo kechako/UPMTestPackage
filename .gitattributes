@@ -1,0 +1,2 @@
+Assets/UPMTestPackage/UPMTestPackage.cs filter=lfs diff=lfs merge=lfs -text
+Assets/UPMTestPackage/UPMTestPackage.cs.meta filter=lfs diff=lfs merge=lfs -text
